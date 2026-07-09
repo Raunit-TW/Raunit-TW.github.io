@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "J8WPX982TR.com.raunits.universal-links-macos"
+        ],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Matches any URL on the domain"
+          }
+        ]
+      }
+    ]
+  }
+}
